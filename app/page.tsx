@@ -8,6 +8,7 @@ import { ArrowRight, Brain, Sparkles, Zap } from "lucide-react";
 import Link from "next/link";
 import ParticlesBackground from "@/components/particles-background";
 
+
 export default function Home() {
   const [mounted, setMounted] = useState(false);
 
